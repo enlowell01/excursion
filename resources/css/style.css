@@ -28,7 +28,7 @@ p {
     color:gray;
 }
 
-.copyright text {
+.copyright-text, .fa-copyright{
     text-align:right;
     color:gray;
 }
